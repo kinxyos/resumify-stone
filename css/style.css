@@ -107,6 +107,7 @@
     color: white;
     background-color: black;
     width:140px;
+    text-decoration: none;
     border-radius: 8px;
     padding: 8px 8px;
     font-family: 'Roboto', sans-serif;
@@ -144,4 +145,10 @@
 footer{
     margin-top: auto;
     background-color:rgb(232, 238, 238);
+}
+.templatename{
+    margin-bottom: 40px;
+}
+.dist{
+    margin:0px 270px;
 }
